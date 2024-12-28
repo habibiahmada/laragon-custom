@@ -268,7 +268,7 @@
             </div>
         </div>
         <div class="projects">
-            <p> Welcome back <b>Habibi!</b> nice to meet you!</p>
+            <p> Welcome back <b>[YOURNAME]!</b> nice to meet you!</p>
             <h2>Your Projects</h2>
             <div class="projects-grid">
                 <?php
