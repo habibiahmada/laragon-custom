@@ -47,7 +47,7 @@ Copy the `index.php` files from this repository into the root of your Laragon `w
 ```bash
 C:\laragon\www\
 ```
-replace your `index.php` files with new file from this repository
+replace your `index.php` files with new file from this repository and rename line which contain `[YOURNAME]` to your name or anything you want
 
 ### Step 3: Start Laragon
 Launch Laragon and ensure that Apache or your preferred server is running.
