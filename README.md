@@ -101,7 +101,6 @@ Contributions are welcome! Here's how you can help:
 If you have any questions or feedback, feel free to reach out:
 
 - **Name**: Habibi Ahmad Aziz  
-- **Email**: habibiahmadaziz@gmail.com  
 - **GitHub**: [habibiahmada](https://github.com/habibiahmada)
 
 ---
